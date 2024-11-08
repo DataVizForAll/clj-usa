@@ -2,11 +2,11 @@
 census tract geodata and pre-post-2023 crosswalk for Center for Leadership &amp; Justice, Urban Suburban Affordables community land trust
 
 ## Five towns where most CLJ USA homes are located
-Bloomfield
-East Hartford
-Hartford
-West Hartford
-Windsor
+- Bloomfield
+- East Hartford
+- Hartford
+- West Hartford
+- Windsor
 
 ## GeoJSON files
 - clj-usa-boundary.geojson = outline of five-town boundary
@@ -15,7 +15,7 @@ Windsor
 
 ## Crosswalk CSV file
 - crosswalk.csv
-- also available in [this Google Sheet](https://docs.google.com/spreadsheets/d/1FuPltpxKEWunwLLlfEUgAt8yB7E_1AY_Qt2ci14mzaU/edit?gid=1021595254#gid=1021595254) 
+- also available in [this Google Sheet](https://docs.google.com/spreadsheets/d/1FuPltpxKEWunwLLlfEUgAt8yB7E_1AY_Qt2ci14mzaU/edit?gid=1021595254#gid=1021595254)
 
 In 2023, the US Census Bureau shifted its data coding away from 8 CT counties (which were technically abolished in 1960 by CT legislature) to 9 CT planning regions (aka county-level equivalents). [Read more by CTData.org](https://www.ctdata.org/blog/geographic-resources-for-connecticuts-new-county-equivalent-geography)
 
